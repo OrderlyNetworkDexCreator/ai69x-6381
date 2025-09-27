@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "ai69x's own perp exchange on the solana blockchain",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Portfolio,Vaults,Trading,Markets",
+  "VITE_ENABLED_MENUS": "Portfolio,Vaults,Trading,Markets,Rewards,Leaderboard",
   "VITE_CUSTOM_MENUS": "Buy $ai69x, https://raydium.io/swap/?inputMint=sol&outputMint=DvyxUPDrDSLLziu5YsTkyirRDTncqkrWTsUdNCuipump",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/ai69xlol",
