@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "ai agents, perpetuals, dec, crypto, solana, ai memes",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ko,vi,nl,it,fr,es,ja,de,tr,pl,uk,id,ru,pt",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "3",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
