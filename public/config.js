@@ -1,10 +1,11 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "ai69x",
   "VITE_ORDERLY_BROKER_NAME": "ai69x",
+  "VITE_BROKER_EOA_ADDRESS": "0xef176ed2720b4d6007b282ec9ea4f8a54a9a54d8",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
   "VITE_ORDERLY_MAINNET_CHAINS": "900900900",
-  "VITE_ORDERLY_TESTNET_CHAINS": "421614,84532,97,901901901,11124",
+  "VITE_ORDERLY_TESTNET_CHAINS": "421614,97,10143,11124,901901901",
   "VITE_DEFAULT_CHAIN": "900900900",
   "VITE_PRIVY_APP_ID": "",
   "VITE_PRIVY_LOGIN_METHODS": "email",
@@ -17,8 +18,9 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "ai69x's own perp exchange on the solana blockchain",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Portfolio,Trading,Markets,Rewards,Leaderboard",
+  "VITE_ENABLED_MENUS": "Portfolio,Trading,Markets,Rewards,Leaderboard,Campaigns",
   "VITE_CUSTOM_MENUS": "Buy $ai69x, https://raydium.io/swap/?inputMint=sol&outputMint=DvyxUPDrDSLLziu5YsTkyirRDTncqkrWTsUdNCuipump",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/ai69xlol",
   "VITE_DISCORD_URL": "",
@@ -34,5 +36,9 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ko,vi,nl,it,fr,es,ja,de,tr,pl,uk,id,ru,pt",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "3",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": ""
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "",
+  "VITE_ANALYTICS_SCRIPT": "",
+  "VITE_SYMBOL_LIST": "",
+  "VITE_RESTRICTED_REGIONS": "",
+  "VITE_WHITELISTED_IPS": ""
 };
