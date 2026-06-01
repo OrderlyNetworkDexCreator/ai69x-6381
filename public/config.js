@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/FART_PRINT",
   "VITE_SEO_SITE_NAME": "Fartprint",
   "VITE_SEO_SITE_DESCRIPTION": "The printr has a phat ass.",
-  "VITE_SEO_SITE_URL": "https://ai69x.io",
+  "VITE_SEO_SITE_URL": "https://dex.orderly.network/ai69x-6381/",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@FART_PRINT",
