@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "The printr has a phat ass.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Portfolio,Trading,Markets,Rewards,Points",
+  "VITE_ENABLED_MENUS": "Portfolio,Trading,Markets,Rewards,Points,Campaigns",
   "VITE_CUSTOM_MENUS": "Ecosystem, https://www.fartprint.art/; Printr, https://www.fartprint.art/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
